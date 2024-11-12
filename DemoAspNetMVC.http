@@ -1,0 +1,6 @@
+﻿@apiUrl = https://localhost:44330/
+
+GET {{apiUrl}}/api/values/
+Accept: application/json
+
+###
